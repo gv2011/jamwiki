@@ -15,7 +15,8 @@
 		<module>jamwiki-core</module>
 		<module>jamwiki-web</module>
 		<module>addons</module>
-		<module>jamwiki-war</module>
+    <module>jamwiki-war</module>
+    <module>main</module>
 	</modules>
 	<scm>
 		<connection>scm:git:git://git.code.sf.net/p/jamwiki/code</connection>
